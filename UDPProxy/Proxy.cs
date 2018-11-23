@@ -11,7 +11,7 @@ namespace UDPProxy
     {
 
         private readonly int PORT;
-        private const string uri = "http://localhost:51525/api/Sensor";
+        private const string uri = "http://localhost:64095/api/Sensor";
 
         public Proxy(int port)
         {
